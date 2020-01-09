@@ -14,7 +14,7 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.7.1",
-    "run-sequence": "^1.2.2",
+    "run-sequence": "^2.2.1",
     "typescript": "^2.5.3"
   },
   "dependencies": {
