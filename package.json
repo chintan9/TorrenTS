@@ -12,7 +12,7 @@
     "@types/crypto-js": "^3.1.33",
     "@types/node": "^7.0.5",
     "del": "^2.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-shell": "^0.7.1",
     "run-sequence": "^1.2.2",
     "typescript": "^2.5.3"
